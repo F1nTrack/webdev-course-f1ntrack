@@ -1,5 +1,27 @@
 ﻿# WebDev Course – F1nTrack
 
+<!--* caratula -->
+
+<div align="center">
+
+# Informe Trabajo Final 📙
+
+<img src="./images/Banner-UPC.png" alt="Banner UPC">
+
+### Universidad Peruana de Ciencias Aplicadas ♨️
+
+🧑‍💻 Ingeniería de software - 2025-02
+
+**Sección:** 7414
+
+**Docente:** Alex Humberto Sánchez Ponce
+
+**StartUp:** F1nTrack
+
+
+<div align='left'>	 ponlo esta caratula  como esta 
+</div>
+
 **Repositorio**: https://github.com/F1nTrack/webdev-course-f1ntrack
 
 **Prácticas**: Usaremos únicamente CodePen (https://codepen.io) para todas las actividades prácticas del curso.
