@@ -21,11 +21,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [CodePen (starter)](https://codepen.io/pen/?template=XXXX) 
 
-### Lección 2: Introducción a HTML (10 minutos)
-- **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: _[YouTube – No listado]_ (pendiente)
-- **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [CodePen (starter)](https://codepen.io/pen/?template=XXXX) 👈 **¡No necesitas registrarte!**
+### Lección 2: Estructura HTML básica (etiquetas, elementos y atributos)
+- **Descripción**: Aprende a construir la estructura de una página web usando HTML. Descubre cómo funcionan las etiquetas, los elementos y los atributos, y crea tu primera mini página en CodePen.
+- **Enlace**: [YouTube – Lección 2](https://youtu.be/DuPIW-byH-M)
+- **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`, `<a>`, `<img>` y el atributo `alt`.
+- **Práctica**: [CodePen (starter)](https://codepen.io/pen/?template=html-starter) 👈 **¡No necesitas registrarte!**
+
 
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
@@ -94,9 +95,3 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-## 📦 Entregables y Nomenclatura
-- **Plan de curso (.pdf)**: `upc-pre-202520-1asi0730-7414-f1ntrack-course-plan.pdf`
-- **Participant Performance Report (.docx y .pdf)**: `upc-pre-202520-1asi0730-7414-f1ntrack-course-plan-performance.docx`
-- **Repo GitHub público**: `webdev-course-f1ntrack`
-
-> Asegúrate de que todos los videos estén **No listados** en YouTube y que cada lección tenga su enlace a práctica online.
