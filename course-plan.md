@@ -6,10 +6,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Duración total**: ~60 minutos  
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+**Herramientas necesarias**: **CodePen (https://codepen.io)** — no se requieren descargas; solo un navegador web. Puedes usar CodePen sin registrarte para probar, o crear una cuenta gratuita si quieres guardar tus proyectos.
 
-**📂 Repositorio de código fuente**: https://github.com/<tu_usuario>/webdev-course-f1ntrack  
-> Reemplaza `<tu_usuario>` por tu usuario real de GitHub.
+**📂 Repositorio de código fuente**: https://github.com/F1nTrack/webdev-course-f1ntrack
 
 ---
 
@@ -32,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: _[YouTube – No listado]_ (pendiente)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [JSFiddle (starter)](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [CodePen (starter)](https://codepen.io/pen/?template=html-starter) 👈 **¡Comienza al instante en CodePen!**
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
@@ -44,7 +43,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: _[YouTube – No listado]_ (pendiente)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Replit – “Crea tu Perfil”](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [CodePen – “Crea tu Perfil”](https://codepen.io/) 👈 **Guarda y comparte en CodePen**
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -55,16 +54,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ---
 
 ## Recursos Adicionales
-- **Código Fuente Completo**: https://github.com/<tu_usuario>/webdev-course-f1ntrack
+- **Código Fuente Completo**: https://github.com/F1nTrack/webdev-course-f1ntrack
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad               | Empezar a Programar                        |
 |----------:|-------------------------|--------------------------------------------|
 | 1         | Explorar Sitios Web     | [CodePen](https://codepen.io/your-lesson1) |
 | 2         | Primera página HTML     | [CodePen](https://codepen.io/your-lesson2) |
-| 3         | Añadir imágenes/enlaces | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| 3         | Añadir imágenes/enlaces | [CodePen](https://codepen.io/your-lesson3) |
 | 4         | Estilo de la página     | [CodePen](https://codepen.io/your-lesson4) |
-| 5         | Página de perfil        | [Replit](https://replit.com/@your-lesson5) |
+| 5         | Página de perfil        | [CodePen](https://codepen.io/your-lesson5) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)  
 - **Compartir**: #WebDevBeginners
