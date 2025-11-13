@@ -50,7 +50,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: https://youtu.be/BQd0SIk4WWI
+- **Enlace**: https://youtu.be/I_OHHdK2aok
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [CodePen (starter)](https://codepen.io/pen/?template=XXXX) 
 
